@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirigiendo...</title>
+		<meta http-equiv="refresh" content="0;url=/sitemap_index.xml">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "/sitemap_index.xml";
+		</script>
+
+		<p>Estás siendo redirigido a <a href="/sitemap_index.xml">/sitemap_index.xml</a></p>
+	</body>
+</html>
