@@ -8,16 +8,24 @@
 	>
 
 <channel>
-	<title>D Best Space</title>
+	<title>DBest Space</title>
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
-	<description></description>
+	<description>Coworking en Bilbao-Asua ¡Ven a conocernos!</description>
 	<lastBuildDate></lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2.1</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/05/cropped-dbs-32x32.png</url>
+	<title>DBest Space</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 </channel>
 </rss>

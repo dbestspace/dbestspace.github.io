@@ -7,15 +7,15 @@
 	>
 <channel>
 	<title>
-	Comentarios en D Best Space	</title>
+	Comentarios en DBest Space	</title>
 	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
-	<description></description>
+	<description>Coworking en Bilbao-Asua ¡Ven a conocernos!</description>
 	<lastBuildDate></lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2.1</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 </channel>
 </rss>
