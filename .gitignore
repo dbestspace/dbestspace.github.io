@@ -1,1 +1,3 @@
 .idea
+# Sitemap is being handled by github action, this one can be ignored safely.
+sitemap.xml
